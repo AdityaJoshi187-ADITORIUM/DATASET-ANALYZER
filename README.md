@@ -1,9 +1,13 @@
 # 🌌 3D EDA & Visualization App
 
-https://youtu.be/xWiM4gXM7y4
-
 > **Explore your data in style.**  
 > _A futuristic, interactive app for Exploratory Data Analysis and 3D Visualization._
+
+---
+
+## 🎬 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/xWiM4gXM7y4/0.jpg)](https://youtu.be/xWiM4gXM7y4)
 
 ---
 
@@ -94,4 +98,4 @@ MIT
 
 ---
 
-> _“The future is now. Visualize your data
+> _“The future is now. Visualize your

@@ -1,6 +1,5 @@
 # 🌌 3D EDA & Visualization App
 
-![Banner](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)
 
 > **Explore your data in style.**  
 > _A futuristic, interactive app for Exploratory Data Analysis and 3D Visualization._
@@ -85,12 +84,6 @@ sample_dataset.csv
 ## 👾 Sample Dataset
 
 See [`sample_dataset.csv`](sample_dataset.csv) for a quick start.
-
----
-
-## 🦾 Screenshots
-
-![UI](https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80)
 
 ---
 

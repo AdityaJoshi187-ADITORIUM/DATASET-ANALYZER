@@ -7,8 +7,7 @@
 
 ## 🎬 Demo Video
 
-[![Thumbnail alt text](https://img.youtube.com/vi/xWiM4gXM7y4/hqdefault.jpg)](https://youtu.be/xWiM4gXM7y4)   
----
+[![Watch the video](https://img.youtube.com/vi/xWiM4gXM7y4/maxresdefault.jpg)](https://youtu.be/xWiM4gXM7y4)   ---
 
 ## 🚀 Features
 
